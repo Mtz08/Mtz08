@@ -1,30 +1,35 @@
-## Olá 👋, eu me chamo Matheus Costa, e esse é meu perfil no GitHub :heart:
+## 👋 Olá! Eu sou o Matheus
 
-<!--
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>
--->
+🎓 Estudante de **Técnico em Desenvolvimento de Sistemas** (último semestre)  
+🚀 Ingressando em **Bacharelado em Engenharia da Computação**  
+🖥️ Curso de Informática  
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+---
 
-##  Sobre mim :star2:
-- :computer: Atualmente estou cursando técnico de desenvolvimento de sistemas no Senai.
-- :books: Estou aprendendo como utilizar banco de dados.
-- :bust_in_silhouette: Procuro ser proativo, mesmo estando em transição de carreira.
-- :round_pushpin: Moro em Cachoeiro de Itapemirim, no Espirito Santo.
-- :soccer:No meu tempo livre gosto de jogar futebol.
+### 💻 Sobre mim
+Sou apaixonado por tecnologia e programação.  
+Gosto de entender como as coisas funcionam, resolver problemas com código e aprender novas tecnologias constantemente.
 
+---
 
+### 🚀 Objetivos
+- Evoluir como desenvolvedor  
+- Aprofundar conhecimentos em programação e lógica  
+- Construir projetos práticos e úteis  
+- Crescer profissionalmente na área de tecnologia  
 
-## Estou aprendendo
+---
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
+### 📚 Atualmente estudando
+- Lógica de programação  
+- Desenvolvimento de sistemas  
+- Fundamentos de computação  
+- Boas práticas de código  
 
-## Contatos:
+---
 
-<div>
-<a href="https://instagram.com/matheuscst08" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:emitecosta08@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+### ⚡ Curiosidades
+- Sempre buscando aprender algo novo  
+- Gosto de transformar ideias em projetos  
+- Curioso por tudo que envolve tecnologia
 
