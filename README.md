@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas** (último semestre)  
 🚀 Ingressando em **Bacharelado em Engenharia da Computação**  
-🖥️ Curso de Informática  
+🖥️ Curso de Informática concluído 
 
 ---
 
@@ -32,4 +32,10 @@ Gosto de entender como as coisas funcionam, resolver problemas com código e apr
 - Sempre buscando aprender algo novo  
 - Gosto de transformar ideias em projetos  
 - Curioso por tudo que envolve tecnologia
+
+---
+
+## 📫 Contato
+- 📧 Email: emitcosta08@gmail.com  
+- 🔗 GitHub: https://github.com/Mtz08
 
