@@ -36,6 +36,7 @@ Gosto de entender como as coisas funcionam, resolver problemas com código e apr
 ---
 
 ## 📫 Contato
-- 📧 Email: emitcosta08@gmail.com  
+- 📧 Email: emitecosta08@gmail.com  
 - 🔗 GitHub: https://github.com/Mtz08
+  
 
