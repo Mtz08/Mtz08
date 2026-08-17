@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Matheus
 
-🎓 Estudante de **Técnico em Desenvolvimento de Sistemas** (último semestre)  
+🎓  **Técnico em Desenvolvimento de Sistemas**  
 🚀 Ingressando em **Bacharelado em Engenharia da Computação**  
 🖥️ Curso de Informática concluído 
 
@@ -17,14 +17,6 @@ Gosto de entender como as coisas funcionam, resolver problemas com código e apr
 - Aprofundar conhecimentos em programação e lógica  
 - Construir projetos práticos e úteis  
 - Crescer profissionalmente na área de tecnologia  
-
----
-
-### 📚 Atualmente estudando
-- Lógica de programação  
-- Desenvolvimento de sistemas  
-- Fundamentos de computação  
-- Boas práticas de código  
 
 ---
 
