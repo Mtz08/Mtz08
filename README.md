@@ -1,6 +1,6 @@
 # Matheus Casagrande
 
-Desenvolvedor em Cachoeiro de Itapemirim (ES). Técnico em Desenvolvimento de Sistemas e estudante de Engenharia da Computação.
+Desenvolvedor em Cachoeiro de Itapemirim (ES). Técnico em Desenvolvimento de Sistemas e estudante de Sistema de Informação.
 Atuo com TI e automação de processos no setor contábil e crio sites para pequenos negócios pela [Rama Digital](https://ramadigital.com.br).
 
 ## Stack
